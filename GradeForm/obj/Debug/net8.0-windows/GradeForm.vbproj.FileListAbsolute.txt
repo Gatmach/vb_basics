@@ -1,0 +1,8 @@
+C:\Users\Hp\source\repos\GradeForm\obj\Debug\net8.0-windows\GradeForm.UnitsAndScoresForm.resources
+C:\Users\Hp\source\repos\GradeForm\obj\Debug\net8.0-windows\GradeForm.WelcomeForm.resources
+C:\Users\Hp\source\repos\GradeForm\obj\Debug\net8.0-windows\GradeForm.vbproj.GenerateResource.cache
+C:\Users\Hp\source\repos\GradeForm\obj\Debug\net8.0-windows\GradeForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\GradeForm\obj\Debug\net8.0-windows\GradeForm.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\GradeForm\obj\Debug\net8.0-windows\GradeForm.AssemblyInfo.vb
+C:\Users\Hp\source\repos\GradeForm\obj\Debug\net8.0-windows\GradeForm.vbproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\GradeForm\obj\Debug\net8.0-windows\GradeForm.AverageAndGrade.resources
